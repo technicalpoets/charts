@@ -1,5 +1,5 @@
 name: Lint Helm Chart
-on: [pull_request]
+on: [push]
 
 jobs:
   lint-helm-3-x:
